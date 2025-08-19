@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+
+/* Indica a Tailwind dove cercare le classi nell'app (Tailwind v4) */
+@source "../**/*.{js,jsx,ts,tsx,mdx}";

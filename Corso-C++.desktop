@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Corso C++ Interattivo
+Comment=Avvia il corso C++ con interfaccia web moderna
+Exec=/home/xilio/corso-app/start-corso.sh
+Icon=applications-development
+Terminal=true
+Categories=Development;Education;Programming;
+Keywords=c++;programming;course;education;development;
+StartupNotify=true
