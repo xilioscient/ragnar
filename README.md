@@ -1,0 +1,2 @@
+# ragnar
+corso-c++
